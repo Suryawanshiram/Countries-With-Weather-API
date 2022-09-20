@@ -1,4 +1,5 @@
 //Dom elements 
+// Fetch data From RestCountries and Weather Api
 const container=document.createElement('div');
 const countriesRow=document.createElement('div');
 const h1=document.createElement('h1');
